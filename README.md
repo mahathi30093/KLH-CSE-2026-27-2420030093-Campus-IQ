@@ -122,10 +122,10 @@ npm start
 
 Phase 1: Requirement Analysis - Completed
 
-Phase 2: System Design - In Progress
+Phase 2: System Design - Completed
 
-Phase 3: Prototype Development - In Progress
+Phase 3: Prototype Development - Completed
 
-Phase 4: Testing & Validation - Pending
+Phase 4: Testing & Validation - Completed
 
-Phase 5: Deployment & Monitoring - Pending
+Phase 5: Deployment & Monitoring - Completed
